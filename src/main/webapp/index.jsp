@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello world from Jsp!</h2>
+<h1>Hello World !!</h1>
+<h2>Jenkins Freestyle</h2>
 </body>
 </html>
